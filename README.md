@@ -54,7 +54,7 @@ Aspiring Data Scientist with a background in HR and business management, transit
 ## 📫 Connect with Me
 - 📩 Email: samsutheenbugari@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/samsutheen-bugari-7ba723135
-- 🏢 Naukri Profile: [Your Naukri Profile]
+- 🏢 Naukri Profile: https://www.naukri.com/mnjuser/profile
 
 📌 Open to data science, business analytics, and AI roles. Let's collaborate on exciting projects!
 
